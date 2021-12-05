@@ -1,2 +1,5 @@
-Doing stuff
+@import "{{ site.theme }}";
 
+header {
+  display: none;
+}
